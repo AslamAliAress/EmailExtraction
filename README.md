@@ -30,7 +30,9 @@ Use the following command to start the application:
 
 ```bash
 node app.js
+```
 
 ## Output
 
-[[![image](https://github.com/user-attachments/assets/98ce7ec9-7fc0-4f75-afa9-7afe99a85673)](https://drive.google.com/file/d/1TPO6gnE64oqEymAvkiG72Tp7ykhKuVE0/view?usp=sharing)](https://drive.google.com/file/d/1TPO6gnE64oqEymAvkiG72Tp7ykhKuVE0/view?usp=sharing)
+![image](https://github.com/user-attachments/assets/327e821e-1df0-4583-80b3-d663873b807f)
+
