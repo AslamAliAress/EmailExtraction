@@ -18,9 +18,10 @@ npm init -y
 
 2. Run the following command to install the required dependencies:
 
-   ```bash
-   npm install @kenjiuno/msgreader
-
+```bash
+npm install @kenjiuno/msgreader
+```
+* https://www.npmjs.com/package/@kenjiuno/msgreader
 
 ## Running the Application
 
