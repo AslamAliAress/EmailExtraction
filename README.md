@@ -11,7 +11,7 @@ This script reads an Outlook `.msg` file, extracts the email details, and saves 
 
 1. Before you begin, ensure you have Node.js installed. You can verify the installation by running:
 
-```
+```bash
 npm init -y
 ```
 
