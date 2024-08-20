@@ -6,6 +6,8 @@ This script reads an Outlook `.msg` file, extracts the email details, and saves 
 
 - Node.js
 - npm (Node Package Manager)
+- @kenjiuno/msgreader
+
 
 ## Prerequisites & Installation
 
