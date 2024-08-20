@@ -1,4 +1,4 @@
-# MSG File Reader Using Nodejs
+# MSG File Reader  & Download Attachments Using Nodejs
 
 This script reads an Outlook `.msg` file, extracts the email details, and saves any image attachments to a specified folder.
 
