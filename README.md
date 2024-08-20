@@ -31,4 +31,5 @@ Use the following command to start the application:
 node app.js
 
 ## Output
-![image](https://github.com/user-attachments/assets/ae9fba73-7814-4e10-9ee0-42030dcc16de)
+![image](https://github.com/user-attachments/assets/0971769d-e3d0-4849-9a66-f40b4c450148)
+
